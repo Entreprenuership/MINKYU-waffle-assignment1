@@ -1,1 +1,3 @@
-# MINKYU-waffle-assignment1
+# 최민규
+team project 1
+저 혼자 했습니다.. 조가 몇 조인지 기억이 나지 않습니다 ㅜㅜ

@@ -1,0 +1,26 @@
+body {
+    background: #000000;
+    color: #FFFFFF;
+}
+
+p {
+    font-size: 250%;
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    font-size:200%; width:80%;
+    border:   #FFA0C0 1px solid;
+}
+
+td {
+    text-align: center;
+    border:   #FFA0C0 1px solid;
+}
+
+a {
+    text-decoration: none;
+    color: #FFA0C0;
+}
